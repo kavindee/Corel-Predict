@@ -1,8 +1,7 @@
-tensorflow==2.5.0
-fastapi
-uvicorn
-python-mulitpart
-pillow
-tensorflow-serving-api==2.5.0
-matplotlib
-numpy
+tensorflow==2.15.0
+fastapi==0.109.2
+uvicorn==0.27.1
+python-mulitpart==0.0.9
+pillow==10.2.0
+tensorflow-serving-api==2.15.0
+numpy==1.26.4
